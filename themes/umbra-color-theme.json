@@ -467,6 +467,12 @@
       }
     },
     {
+      "scope": "entity.name.section",
+      "settings": {
+        "foreground": "#ea4a5a"
+      }
+    },
+    {
       "scope": [
         "entity.name.tag",
         "entity.name.tag.js.jsx support.class.component.js.jsx",
@@ -562,7 +568,7 @@
     {
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#fce566"
+        "foreground": "#ea4a5a"
       }
     },
     {
@@ -668,7 +674,13 @@
     {
       "scope": "meta.diff.git-diff.header",
       "settings": {
-        "foreground": "#FCE566"
+        "foreground": "#fce566"
+      }
+    },
+    {
+      "scope": "meta.separator.markdown",
+      "settings": {
+        "foreground": "#8b888f"
       }
     },
     {

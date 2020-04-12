@@ -31,7 +31,7 @@
       {
         "label": "Umbra",
         "uiTheme": "vs-dark",
-        "path": "./themes/Penumbra-color-theme.json"
+        "path": "./themes/umbra-color-theme.json"
       }
     ]
   }
