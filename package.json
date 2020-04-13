@@ -2,7 +2,7 @@
   "name": "umbra",
   "displayName": "Umbra",
   "description": "A VS Code dark red theme inspired by GitHub color scheme and Monokai Pro.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "greven",
   "license": "MIT",
   "repository": {
@@ -35,5 +35,10 @@
         "path": "./themes/umbra-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "0cdb07e7-2267-4532-8a54-bf8aab16afef",
+    "publisherDisplayName": "greven",
+    "publisherId": "4b8ed01e-f0fa-4b78-9fdb-c0aa47b211a0"
   }
 }

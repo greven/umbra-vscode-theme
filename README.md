@@ -2,7 +2,7 @@
 
 A Visual Studio theme with dark colors inspired by the GitHub color scheme and Monokai Pro.
 
-![Umbra Preview](images/preview.png)
+![Umbra Preview](preview.png)
 
 ## Motivation
 
