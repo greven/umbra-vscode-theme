@@ -1,6 +1,6 @@
 # Umbra
 
-A Visual Studio theme with dark colors inspired by the GitHub color scheme and Monokai Pro.
+A Visual Studio theme with dark colors inspired by [Bear App](https://bear.app/) colors, GitHub color scheme and Monokai Pro.
 
 ![Umbra Preview](preview.png)
 
