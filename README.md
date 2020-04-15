@@ -3,6 +3,7 @@
 A [Visual Studio Code](https://code.visualstudio.com/) theme with dark colors inspired by [Bear App](https://bear.app/) colors, GitHub color scheme and [Monokai Pro](https://monokai.pro/).
 
 ![Umbra Preview](preview.png)
+_Font is Fantasque Sans Mono 15 with ligatures._
 
 ## Motivation
 
@@ -13,12 +14,17 @@ I wanted a theme with a dark window based on GitHub syntax color scheme because 
 1. Install Visual Studio Code
 2. Launch Visual Studio Code
 3. Choose Extensions from menu
-4. Search for `umbra`
+4. Search for **umbra**
 5. Click Install to install it
 6. Click Reload to reload the Code
-7. From the menu bar click: Code > Preferences > Color Theme > Umbra
+7. From the menu bar click: `Code > Preferences > Color Theme > Umbra`
 
-VSCode Marketplace [link](https://marketplace.visualstudio.com/items?itemName=greven.umbra).
+Visual Studio Code Marketplace [link](https://marketplace.visualstudio.com/items?itemName=greven.umbra).
+
+## Tasks
+
+- [ ] Implement alternative dark blue theme
+- [ ] Implement a light theme
 
 ## Issues
 
