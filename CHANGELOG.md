@@ -2,6 +2,10 @@
 
 All notable changes to the "umbra" extension will be documented in this file.
 
+## "0.1.4"
+
+- Tweak bottom panel colors
+
 ## "0.1.3"
 
 - Update metadata

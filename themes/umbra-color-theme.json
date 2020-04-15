@@ -207,12 +207,12 @@
     "notificationsInfoIcon.foreground": "#5ad4e6",
     "notificationsWarningIcon.foreground": "#fd9353",
 
-    "panel.background": "#373535",
-    "panel.border": "#202020",
+    "panel.background": "#191919",
+    "panel.border": "#141212",
     "panel.dropBackground": "#191919bf",
-    "panelTitle.activeBorder": "#fc618d",
-    "panelTitle.activeForeground": "#fc618d",
-    "panelTitle.inactiveForeground": "#8f8c8c",
+    "panelTitle.activeBorder": "#141212",
+    "panelTitle.activeForeground": "#ec5463",
+    "panelTitle.inactiveForeground": "#535353",
 
     "peekView.border": "#202020",
     "peekViewEditor.background": "#373535",
