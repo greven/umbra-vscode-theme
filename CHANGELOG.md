@@ -2,6 +2,12 @@
 
 All notable changes to the "umbra" extension will be documented in this file.
 
+## "0.2.1"
+
+- Tweak tab colors... again! Make strip background darker
+- Make code foreground slightly grayer to be easier on the eyes
+- General tweaks
+
 ## "0.2.0"
 
 - Tweak tabs
