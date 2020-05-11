@@ -21,7 +21,7 @@
     "button.foreground": "#8f8c8c",
     "button.hoverBackground": "#202020",
 
-    "debugExceptionWidget.background": "#373535",
+    "debugExceptionWidget.background": "#141212",
     "debugExceptionWidget.border": "#202020",
     "debugIcon.breakpointCurrentStackframeForeground": "#ec5463",
     "debugIcon.breakpointDisabledForeground": "#c0b6b6",
@@ -210,7 +210,7 @@
     "panel.background": "#191919",
     "panel.border": "#141212",
     "panel.dropBackground": "#191919bf",
-    "panelTitle.activeBorder": "#141212",
+    "panelTitle.activeBorder": "#191919",
     "panelTitle.activeForeground": "#ec5463",
     "panelTitle.inactiveForeground": "#535353",
 
@@ -369,6 +369,8 @@
     "titleBar.border": "#141212",
     "titleBar.inactiveBackground": "#191919",
     "titleBar.inactiveForeground": "#535353",
+
+    "tree.indentGuidesStroke": "#fff1f115",
 
     "walkThrough.embeddedEditorBackground": "#191919",
 

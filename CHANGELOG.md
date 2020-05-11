@@ -2,6 +2,10 @@
 
 All notable changes to the "umbra" extension will be documented in this file.
 
+## "0.1.6"
+
+- Small color tweaks
+
 ## "0.1.5"
 
 - Update preview and add GitHub release action
