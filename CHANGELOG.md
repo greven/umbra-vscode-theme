@@ -2,6 +2,13 @@
 
 All notable changes to the "umbra" extension will be documented in this file.
 
+## "0.2.0"
+
+- Tweak tabs
+- Change activity bar selected color
+- Add scrollbar shadow
+- Make debug toolbar background darker
+
 ## "0.1.6"
 
 - Small color tweaks

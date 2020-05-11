@@ -2,10 +2,11 @@
   "name": "umbra",
   "type": "dark",
   "colors": {
+    "activityBar.activeBorder": "#ec5463",
     "activityBar.background": "#141212",
     "activityBar.border": "#141212",
     "activityBar.dropBackground": "#191919bf",
-    "activityBar.foreground": "#c0b6b6",
+    "activityBar.foreground": "#cfc3c3",
     "activityBar.inactiveForeground": "#535353",
     "activityBarBadge.background": "#ec5463",
     "activityBarBadge.foreground": "#fff1f1",
@@ -38,7 +39,7 @@
     "debugIcon.stepOutForeground": "#fff1f1",
     "debugIcon.stepOverForeground": "#fff1f1",
     "debugIcon.stopForeground": "#fc618d",
-    "debugToolBar.background": "#373535",
+    "debugToolBar.background": "#141414",
 
     "descriptionForeground": "#8f8c8c",
 
@@ -237,7 +238,7 @@
 
     "progressBar.background": "#373535",
 
-    "scrollbar.shadow": "#202020",
+    "scrollbar.shadow": "#00000055",
     "scrollbarSlider.activeBackground": "#fff1f112",
     "scrollbarSlider.background": "#fff1f112",
     "scrollbarSlider.hoverBackground": "#fff1f112",
@@ -316,13 +317,14 @@
     "symbolIcon.unitForeground": "#948ae3",
     "symbolIcon.variableForeground": "#5ad4e6",
 
-    "tab.activeBackground": "#202020",
-    "tab.activeBorder": "#ec5463",
-    "tab.activeForeground": "#fff1f1",
+    "tab.activeBackground": "#282828",
+    "tab.activeBorder": "#202020",
+    "tab.activeBorderTop": "#ec5463",
+    "tab.activeForeground": "#ffe0e0",
     "tab.activeModifiedBorder": "#535353",
-    "tab.border": "#202020",
-    "tab.hoverBackground": "#202020",
-    "tab.hoverBorder": "#535353",
+    "tab.border": "#191919",
+    "tab.hoverBackground": "#252525",
+    "tab.hoverBorder": "#202020",
     "tab.inactiveBackground": "#202020",
     "tab.inactiveForeground": "#8f8c8c",
     "tab.inactiveModifiedBorder": "#535353",
