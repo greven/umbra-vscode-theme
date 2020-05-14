@@ -16,9 +16,9 @@
 
     "breadcrumb.activeSelectionForeground": "#fff5f5",
     "breadcrumb.focusForeground": "#fff5f5",
-    "breadcrumb.foreground": "#c0b6b6",
+    "breadcrumb.foreground": "#6c6767",
 
-    "button.background": "#373535",
+    "button.background": "#2f2f2f",
     "button.foreground": "#8f8c8c",
     "button.hoverBackground": "#1c1c1c",
 
@@ -169,8 +169,8 @@
     "gitDecoration.modifiedResourceForeground": "#90dcf3",
     "gitDecoration.untrackedResourceForeground": "#fd9353",
 
-    "input.background": "#373535",
-    "input.border": "#373535",
+    "input.background": "#2f2f2f",
+    "input.border": "#2c2c2c",
     "input.foreground": "#fff5f5",
     "input.placeholderForeground": "#6c6767",
     "inputOption.activeBackground": "#474747",
@@ -287,7 +287,7 @@
     "sideBar.dropBackground": "#121212bf",
     "sideBar.foreground": "#8f8c8c",
     "sideBarSectionHeader.background": "#121212",
-    "sideBarSectionHeader.foreground": "#6c6767",
+    "sideBarSectionHeader.foreground": "#cfc6c6",
     "sideBarTitle.foreground": "#474747",
 
     "statusBar.background": "#121212",

@@ -2,6 +2,13 @@
 
 All notable changes to the "umbra" extension will be documented in this file.
 
+## "0.3.1"
+
+- Tweak inputs background and border
+- Change buttons background color
+- Tweak sidebar headers
+- Make breadcrumbs more discreet
+
 ## "0.3.0"
 
 - Make theme generally darker (background colors)
