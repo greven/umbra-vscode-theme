@@ -2,6 +2,10 @@
 
 All notable changes to the "umbra" extension will be documented in this file.
 
+## "0.3.2"
+
+- Adjust terminal colors
+
 ## "0.3.1"
 
 - Tweak inputs background and border
