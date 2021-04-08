@@ -2,6 +2,12 @@
 
 All notable changes to the "umbra" extension will be documented in this file.
 
+## "0.3.4"
+
+- Darken background color slightly
+- Make the remote extension background token dark
+- Change function call tokens to get colorized with the funcion color
+
 ## "0.3.3"
 
 - Adjust terminal colors
