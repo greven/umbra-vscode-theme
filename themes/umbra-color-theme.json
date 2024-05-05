@@ -152,8 +152,8 @@
     "editorSuggestWidget.border": "#0d0c0c",
     "editorSuggestWidget.foreground": "#b0b0b0",
     "editorSuggestWidget.highlightForeground": "#dbdbdb",
-    "editorSuggestWidget.selectedBackground": "#a6e6e8",
-    "editorSuggestWidget.selectedForeground": "#121212",
+    "editorSuggestWidget.selectedBackground": "#cccccc1f",
+    "editorSuggestWidget.selectedForeground": "#d1d1d1",
 
     "editorWarning.border": "#00000000",
     "editorWarning.foreground": "#fd9353",
@@ -182,7 +182,7 @@
     "input.background": "#0d0c0c",
     "input.border": "#0d0c0c",
     "input.foreground": "#dbdbdb",
-    "input.placeholderForeground": "#6c6767",
+    "input.placeholderForeground": "#6a6969",
     "inputOption.activeBackground": "#454545",
     "inputOption.activeBorder": "#454545",
     "inputValidation.errorBackground": "#1f1f1f",
@@ -303,13 +303,13 @@
 
     "statusBar.background": "#121212",
     "statusBar.border": "#0d0c0c",
-    "statusBar.debuggingBackground": "#6c6767",
+    "statusBar.debuggingBackground": "#6a6969",
     "statusBar.debuggingBorder": "#121212",
     "statusBar.debuggingForeground": "#dbdbdb",
-    "statusBar.foreground": "#6c6767",
+    "statusBar.foreground": "#6a6969",
     "statusBar.noFolderBackground": "#121212",
     "statusBar.noFolderBorder": "#0d0c0c",
-    "statusBar.noFolderForeground": "#6c6767",
+    "statusBar.noFolderForeground": "#6a6969",
     "statusBarItem.activeBackground": "#141414",
     "statusBarItem.hoverBackground": "#141414",
     "statusBarItem.prominentBackground": "#1f1f1f",
@@ -362,7 +362,7 @@
     "textLink.activeForeground": "#dbdbdb",
     "textLink.foreground": "#f35e6d",
     "textPreformat.foreground": "#dbdbdb",
-    "textSeparator.foreground": "#6c6767",
+    "textSeparator.foreground": "#6a6969",
 
     "titleBar.activeBackground": "#121212",
     "titleBar.activeForeground": "#d1d1d1",
@@ -378,14 +378,12 @@
   },
   "tokenColors": [
     {
-      "name": "Italics - Comments, Storage, Keyword Flow, Vue attributes, Decorators",
+      "name": "Italics - Comments, Storage, Keyword Flow, Decorators",
       "scope": [
         "comment",
         "meta.var.expr storage.type",
         "keyword.control.flow",
         "keyword.control.return",
-        "meta.directive.vue punctuation.separator.key-value.html",
-        "meta.directive.vue entity.other.attribute-name.html",
         "tag.decorator.js entity.name.tag.js",
         "tag.decorator.js punctuation.definition.tag.js",
         "storage.modifier",
@@ -453,7 +451,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#a3a3a3"
+        "foreground": "#e6dba7"
       }
     },
     {
@@ -512,19 +510,19 @@
       "scope": [
         "punctuation.definition.template-expression",
         "punctuation.section.embedded",
-        "meta.embedded.line.tag.smarty",
-        "support.constant.handlebars",
         "punctuation.section.tag.twig",
+        "support.constant.handlebars",
+        "meta.embedded.line.tag.smarty",
       ],
       "settings": {
-        "foreground": "#ebebeb"
+        "foreground": "#a3a3a3"
       }
     },
     {
       "name": "Spread",
       "scope": [
         "keyword.operator.spread",
-        "keyword.operator.rest"
+        "keyword.operator.rest",
       ],
       "settings": {
         "foreground": "#f35e6d",
@@ -536,31 +534,18 @@
       "scope": [
         "keyword.operator",
         "keyword.control.as",
-        "keyword.other",
         "keyword.operator.bitwise.shift",
-        "punctuation",
-        "expression.embbeded.vue punctuation.definition.tag",
-        "text.html.twig meta.tag.inline.any.html",
-        "meta.tag.template.value.twig meta.function.arguments.twig",
-        "meta.directive.vue punctuation.separator.key-value.html",
-        "punctuation.definition.constant.markdown",
-        "punctuation.definition.string",
-        "punctuation.support.type.property-name",
-        "text.html.vue-html meta.tag",
-        "meta.attribute.directive",
-        "punctuation.definition.keyword",
-        "punctuation.terminator.rule",
-        "punctuation.definition.entity",
-        "punctuation.separator.inheritance.php",
-        "keyword.other.template",
-        "keyword.other.substitution",
-        "entity.name.operator",
-        "meta.property-list punctuation.separator.key-value",
-        "meta.at-rule.mixin punctuation.separator.key-value",
-        "meta.at-rule.function variable.parameter.url"
+        "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#8b888f"
+        "foreground": "#f35e6d"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": ["punctuation"],
+      "settings": {
+        "foreground": "#a3a3a3"
       }
     },
     {
@@ -639,7 +624,7 @@
         "meta.tag"
       ],
       "settings": {
-        "foreground": "#fc618d"
+        "foreground": "#ebebeb"
       }
     },
     {
@@ -647,20 +632,6 @@
       "scope": "punctuation.definition.tag",
       "settings": {
         "foreground": "#5c5757"
-      }
-    },
-    {
-      "name": "Globals, PHP Constants, etc",
-      "scope": [
-        "constant.other.php",
-        "variable.other.global.safer",
-        "variable.other.global.safer punctuation.definition.variable",
-        "variable.other.global",
-        "variable.other.global punctuation.definition.variable",
-        "constant.other"
-      ],
-      "settings": {
-        "foreground": "#e6dba7"
       }
     },
     {
@@ -817,7 +788,6 @@
         "entity.name.namespace",
         "meta.import.qualifier",
         "variable.other.constant.object",
-        // "variable.other.readwrite.alias",
         "support.orther.namespace.use.php",
         "meta.use.php",
       ],
@@ -843,7 +813,7 @@
       "name": "Super",
       "scope": ["variable.language.super"],
       "settings": {
-        "foreground": "#e6dba7"
+        "foreground": "#bb9af7"
       }
     },
     {
