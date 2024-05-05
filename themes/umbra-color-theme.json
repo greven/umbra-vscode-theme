@@ -390,6 +390,7 @@
         "tag.decorator.js entity.name.tag.js",
         "tag.decorator.js punctuation.definition.tag.js",
         "storage.modifier",
+        "meta.function-call",
         "storage.type.class"
       ],
       "settings": {
@@ -504,7 +505,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#f57a86"
+        "foreground": "#f35e6d"
       }
     },
     {
@@ -616,7 +617,8 @@
         "keyword.operator.ternary",
         "keyword.operator.comparison",
         "keyword.operator.relational",
-        "keyword.operator.or.regexp"
+        "keyword.operator.or.regexp",
+        "keyword.operator.other"
       ],
       "settings": {
         "foreground": "#f35e6d"
@@ -674,7 +676,7 @@
         "meta.function-call meta.function-call.arguments"
       ],
       "settings": {
-        "foreground": "#ebebeb"
+        "foreground": "#ebebeb",
       }
     },
     {
@@ -833,9 +835,16 @@
     },
     {
       "name": "Support Function",
-      "scope": "support.function",
+      "scope": ["support.function"],
       "settings": {
-        "foreground": "#85dde0"
+        "foreground": "#e6dba7"
+      }
+    },
+    {
+      "name": "Super",
+      "scope": ["variable.language.super"],
+      "settings": {
+        "foreground": "#e6dba7"
       }
     },
     {
@@ -1007,12 +1016,13 @@
     {
       "name": "Sub-methods",
       "scope": [
+        "entity.name.type.module",
         "entity.name.module.js",
         "variable.import.parameter.js",
-        "variable.other.class.js"
+        "variable.other.class.js",
       ],
       "settings": {
-        "foreground": "#e6e6e6"
+        "foreground": "#e6e6e6",
       }
     },
     {
