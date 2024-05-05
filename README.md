@@ -1,13 +1,13 @@
 # Umbra
 
-A [Visual Studio Code](https://code.visualstudio.com/) theme with dark colors inspired by [Bear App](https://bear.app/) colors, GitHub color scheme and [Monokai Pro](https://monokai.pro/).
+A [Visual Studio Code](https://code.visualstudio.com/) theme with dark colors inspired by [Bear App](https://bear.app/) and the GitHub syntax colour scheme.
 
 ![Umbra Preview](preview.png)
-_Font is Fantasque Sans Mono 15 with ligatures._
+_Font is the amazing [Iosevka](https://typeof.net/Iosevka/) (SS10)._
 
 ## Motivation
 
-I wanted a theme with a dark window based on GitHub syntax color scheme because it is simple and consistent. Red and Black is always a great combo.
+I wanted a theme with a dark window based on GitHub syntax colour scheme (not available at the time of publish) because it is simple and consistent but with darker backgrounds and tweaked syntax colours.
 
 ## Installation
 
