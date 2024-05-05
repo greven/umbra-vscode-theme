@@ -23,7 +23,6 @@ Visual Studio Code Marketplace [link](https://marketplace.visualstudio.com/items
 
 ## Tasks
 
-- [ ] Implement alternative dark blue theme
 - [ ] Implement a light theme
 
 ## Issues

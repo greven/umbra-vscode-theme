@@ -321,7 +321,7 @@
     "tab.activeBorder": "#141414",
     "tab.activeBorderTop": "#f35e6d",
     "tab.activeForeground": "#f4f4f4",
-    "tab.border": "#121212",
+    "tab.border": "#0d0c0c",
     "tab.hoverBackground": "#141414",
     "tab.hoverBorder": "#141414",
     "tab.hoverForeground": "#dddddd",
@@ -389,7 +389,8 @@
         "meta.directive.vue entity.other.attribute-name.html",
         "tag.decorator.js entity.name.tag.js",
         "tag.decorator.js punctuation.definition.tag.js",
-        "storage.modifier"
+        "storage.modifier",
+        "storage.type.class"
       ],
       "settings": {
         "fontStyle": "italic"
@@ -490,13 +491,20 @@
       }
     },
     {
+      "name": "Storage Type Class",
+      "scope": "storage.type.class",
+      "settings": {
+        "foreground": "#85dde0"
+      }
+    },
+    {
       "name": "Storage - modifier, var, const, let",
       "scope": [
         "meta.var.expr storage.type",
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#f35e6d"
+        "foreground": "#f57a86"
       }
     },
     {
@@ -651,7 +659,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#85dde0"
+        "foreground": "#e6dba7"
       }
     },
     {
@@ -813,7 +821,7 @@
         "meta.use.php",
       ],
       "settings": {
-        "foreground": "#e6dba7"
+        "foreground": "#85dde0"
       }
     },
     {
@@ -827,7 +835,7 @@
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#e6dba7"
+        "foreground": "#85dde0"
       }
     },
     {
@@ -915,7 +923,7 @@
       }
     },
     {
-      "name": "CSS psuedo selectors",
+      "name": "CSS pseudo selectors",
       "scope": [
         "entity.other.attribute-name.pseudo-class",
         "entity.other.attribute-name.pseudo-element",
