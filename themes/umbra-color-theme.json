@@ -27,7 +27,7 @@
 
     "commandCenter.background": "#0d0c0c",
     "commandCenter.border": "#0d0c0c",
-    "commandCenter.activeBorder": "#0d0c0c",
+    "commandCenter.activeBorder": "#454545",
     "commandCenter.activeBackground": "#141414",
     "commandCenter.foreground": "#454545",
 
@@ -149,11 +149,12 @@
 
     "editorPane.background": "#141414",
     "editorRuler.foreground": "#454545",
-    "editorSuggestWidget.background": "#1f1f1f",
-    "editorSuggestWidget.border": "#1f1f1f",
+    "editorSuggestWidget.background": "#0d0c0c",
+    "editorSuggestWidget.border": "#0d0c0c",
     "editorSuggestWidget.foreground": "#b0b0b0",
     "editorSuggestWidget.highlightForeground": "#dbdbdb",
-    "editorSuggestWidget.selectedBackground": "#6c6767",
+    "editorSuggestWidget.selectedBackground": "#85dde0",
+    "editorSuggestWidget.selectedForeground": "#121212",
 
     "editorWarning.border": "#00000000",
     "editorWarning.foreground": "#fd9353",
@@ -195,8 +196,8 @@
     "inputValidation.warningBorder": "#fd9353",
     "inputValidation.warningForeground": "#fd9353",
 
-    "list.activeSelectionBackground": "#85dde0f6",
-    "list.activeSelectionForeground": "#121212",
+    "list.activeSelectionBackground": "#cccccc1f",
+    "list.activeSelectionForeground": "#d1d1d1",
     "list.dropBackground": "#121212bf",
     "list.errorForeground": "#fc618d",
     "list.focusBackground": "#141414",
@@ -294,9 +295,9 @@
     "settings.focusedRowBackground": "#1f1f1f80",
 
     "sideBar.background": "#121212",
+    "sideBar.foreground": "#777777",
     "sideBar.border": "#0d0c0c",
     "sideBar.dropBackground": "#121212bf",
-    "sideBar.foreground": "#6c6767",
     "sideBarSectionHeader.background": "#121212",
     "sideBarSectionHeader.foreground": "#d1d1d1",
     "sideBarTitle.foreground": "#454545",
@@ -318,8 +319,7 @@
     "statusBarItem.remoteForeground": "#f35e6d",
 
     "tab.activeBackground": "#141414",
-    "tab.activeBorder": "#141414",
-    "tab.activeBorderTop": "#f35e6d",
+    "tab.activeBorder": "#f35e6d",
     "tab.activeForeground": "#f4f4f4",
     "tab.border": "#0d0c0c",
     "tab.hoverBackground": "#141414",
