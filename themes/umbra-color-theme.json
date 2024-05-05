@@ -9,11 +9,11 @@
     "activityBar.border": "#0d0c0c",
     "activityBar.foreground": "#d1d1d1",
     "activityBar.inactiveForeground": "#454545",
-    "activityBarBadge.background": "#f35e6d",
-    "activityBarBadge.foreground": "#dbdbdb",
+    "activityBarBadge.background": "#85dde0",
+    "activityBarBadge.foreground": "#121212",
 
-    "badge.background": "#f35e6d",
-    "badge.foreground": "#dbdbdb",
+    "badge.background": "#85dde0",
+    "badge.foreground": "#121212",
 
     "breadcrumb.background": "#121212",
     "breadcrumb.foreground": "#a3a3a3",
@@ -55,8 +55,8 @@
     "diffEditor.insertedTextBackground": "#7bd88f19",
     "diffEditor.removedTextBackground": "#fc618d19",
 
-    "dropdown.background": "#141414",
-    "dropdown.border": "#141414",
+    "dropdown.background": "#0d0c0c",
+    "dropdown.border": "#0d0c0c",
     "dropdown.foreground": "#d1d1d1",
     "dropdown.listBackground": "#1f1f1f",
 
@@ -195,8 +195,8 @@
     "inputValidation.warningBorder": "#fd9353",
     "inputValidation.warningForeground": "#fd9353",
 
-    "list.activeSelectionBackground": "#141414",
-    "list.activeSelectionForeground": "#f35e6d",
+    "list.activeSelectionBackground": "#85dde0f6",
+    "list.activeSelectionForeground": "#121212",
     "list.dropBackground": "#121212bf",
     "list.errorForeground": "#fc618d",
     "list.focusBackground": "#141414",
@@ -239,10 +239,10 @@
     "notificationsInfoIcon.foreground": "#85dde0",
     "notificationsWarningIcon.foreground": "#fd9353",
 
-    "panel.background": "#121212",
+    "panel.background": "#0d0c0c",
     "panel.border": "#0d0c0c",
-    "panelTitle.activeBorder": "#121212",
-    "panelTitle.activeForeground": "#f35e6d",
+    "panelTitle.activeBorder": "#f35e6d",
+    "panelTitle.activeForeground": "#d1d1d1",
     "panelTitle.inactiveForeground": "#454545",
 
     "peekView.border": "#141414",
