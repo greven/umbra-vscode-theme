@@ -2,29 +2,30 @@
   "name": "umbra",
   "displayName": "Umbra",
   "description": "A VS Code dark red theme inspired by Bear App colors, GitHub color scheme and Monokai Pro.",
-  "version": "0.3.4",
-  "publisher": "greven",
+  "version": "1.0.0",
+  "publisher": "Nuno Freire",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/greven/umbra-vscode-theme"
   },
   "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Dark Red Theme",
-    "GitHub Theme",
-    "Night Theme",
-    "VS Code Theme"
+    "theme",
+    "dark",
+    "night",
+    "minimalist",
+    "clean"
   ],
   "engines": {
     "vscode": "^1.20.0"
   },
   "scripts": {
+    "package": "vsce package",
     "publish": "vsce publish"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "icon": "icon.png",
   "galleryBanner": {
