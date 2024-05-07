@@ -294,7 +294,7 @@
     "settings.focusedRowBackground": "#1f1f1f80",
 
     "sideBar.background": "#121212",
-    "sideBar.foreground": "#777777",
+    "sideBar.foreground": "#666666",
     "sideBar.border": "#0d0c0c",
     "sideBar.dropBackground": "#121212bf",
     "sideBarSectionHeader.background": "#121212",
@@ -364,8 +364,9 @@
     "textPreformat.foreground": "#dbdbdb",
     "textSeparator.foreground": "#6a6969",
 
+
     "titleBar.activeBackground": "#121212",
-    "titleBar.activeForeground": "#d1d1d1",
+    "titleBar.activeForeground": "#6a6969",
     "titleBar.border": "#0d0c0c",
     "titleBar.inactiveBackground": "#121212",
     "titleBar.inactiveForeground": "#454545",
