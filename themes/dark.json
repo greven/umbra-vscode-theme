@@ -421,7 +421,7 @@
         "comment variable.other",
         "comment.block.documentation",
         "comment.block.documentation punctuation",
-        "punctuation.definition.comment",
+        "punctuation.definition.comment"
       ],
       "settings": {
         "foreground": "#5c5757"
@@ -513,7 +513,7 @@
         "punctuation.section.embedded",
         "punctuation.section.tag.twig",
         "support.constant.handlebars",
-        "meta.embedded.line.tag.smarty",
+        "meta.embedded.line.tag.smarty"
       ],
       "settings": {
         "foreground": "#a3a3a3"
@@ -523,7 +523,7 @@
       "name": "Spread",
       "scope": [
         "keyword.operator.spread",
-        "keyword.operator.rest",
+        "keyword.operator.rest"
       ],
       "settings": {
         "foreground": "#f35e6d",
@@ -647,7 +647,7 @@
         "meta.function-call meta.function-call.arguments"
       ],
       "settings": {
-        "foreground": "#ebebeb",
+        "foreground": "#ebebeb"
       }
     },
     {
@@ -790,10 +790,19 @@
         "meta.import.qualifier",
         "variable.other.constant.object",
         "support.orther.namespace.use.php",
-        "meta.use.php",
+        "meta.use.php"
       ],
       "settings": {
         "foreground": "#97c4eb"
+      }
+    },
+    {
+      "name": "JSON Proprty",
+      "scope": [
+        "support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "#bb9af7"
       }
     },
     {
@@ -877,7 +886,7 @@
         "entity.name.tag.reference"
       ],
       "settings": {
-        "foreground": "#e6e6e6",
+        "foreground": "#e6e6e6"
       }
     },
     {
@@ -989,10 +998,10 @@
         "entity.name.type.module",
         "entity.name.module.js",
         "variable.import.parameter.js",
-        "variable.other.class.js",
+        "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#e6e6e6",
+        "foreground": "#e6e6e6"
       }
     },
     {
@@ -1028,7 +1037,7 @@
         "text.html.basic entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#97c4eb"
+        "foreground": "#b493f0"
       }
     },
     {
