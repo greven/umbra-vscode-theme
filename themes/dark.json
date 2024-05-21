@@ -617,15 +617,16 @@
       }
     },
     {
-      "name": "Tag - Custom / Unrecognized",
+      "name": "Tag, Custom Tag / Unrecognized",
       "scope": [
         "entity.name.tag support.class.component",
         "meta.tag.custom entity.name.tag",
         "meta.tag.other.unrecognized.html.derivative entity.name.tag",
+        "entity.name.tag.js",
         "meta.tag"
       ],
       "settings": {
-        "foreground": "#ebebeb"
+        "foreground": "#bebebe"
       }
     },
     {
